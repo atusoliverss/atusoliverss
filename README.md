@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com back-end e data science
 - 🌱 Estudando Python e Machine Learning
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/atusoliverss">
