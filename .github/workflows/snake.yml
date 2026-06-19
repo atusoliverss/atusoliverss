@@ -1,23 +1,21 @@
 name: Generate Datas
 on:
   schedule:
-    # Executa a cada 12 horas
     - cron: "0 */12 * * *"
-  
-  # Permite rodar o script manualmente na aba Actions
   workflow_dispatch:
-  
-  # Roda a cada push na branch main
   push:
     branches:
     - main
+
+# Adicione este bloco para liberar a permissão de escrita
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,7 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Faz o deploy das imagens geradas para a branch "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
