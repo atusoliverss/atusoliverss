@@ -6,7 +6,7 @@ Sou um desenvolvedor focado em construir aplicações completas, escaláveis e e
 
 - 🔭 Desenvolvendo sistemas ponta a ponta, com foco na qualidade e performance do código.
 - 🌱 Foco técnico atual: Arquitetura de software, ecossistemas Java/Node.js e orquestração de infraestrutura.
-- ⚡ Curiosidade: Apaixonado por cultura pop, filmes e por criar automações para otimizar o fluxo de trabalho.
+- ⚡ Foco profissional: Desenvolvimento de software generalista e entrega de soluções práticas para demandas freelance.
 
 ---
 
@@ -15,7 +15,7 @@ Sou um desenvolvedor focado em construir aplicações completas, escaláveis e e
 **Backend & Banco de Dados:** 
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-<img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+<img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
