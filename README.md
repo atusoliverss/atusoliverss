@@ -41,10 +41,10 @@ Sou um desenvolvedor focado em construir aplicações completas, escaláveis e e
 
 <div align="center">
   <a href="https://github.com/atusoliverss">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atusoliverss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=atusoliverss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
   <a href="https://github.com/atusoliverss">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atusoliverss&layout=compact&langs_count=6&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atusoliverss&layout=compact&langs_count=6&theme=dracula" alt="Top Linguagens"/>
   </a>
 </div>
 
