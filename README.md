@@ -39,24 +39,24 @@ Sou um desenvolvedor focado em construir aplicações completas, escaláveis e e
 
 ### 📈 Estatísticas & Contribuições
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/atusoliverss">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=atusoliverss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=atusoliverss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false" alt="Estatísticas do GitHub">
   </a>
   <a href="https://github.com/atusoliverss">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atusoliverss&layout=compact&langs_count=6&theme=dracula" alt="Top Linguagens"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atusoliverss&layout=compact&langs_count=6&theme=dracula&disable_animations=false" alt="Top Linguagens">
   </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atusoliverss/atusoliverss/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atusoliverss/atusoliverss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atusoliverss/atusoliverss/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da Cobrinha" src="https://raw.githubusercontent.com/atusoliverss/atusoliverss/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
 ---
 
