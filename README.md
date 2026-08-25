@@ -41,8 +41,7 @@ Sou um desenvolvedor focado em construir aplicações completas, escaláveis e e
 ### 📈 Estatísticas & Contribuições
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=atusoliverss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atusoliverss&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800&v=1" alt="Top Linguagens"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="800">
 </div>
 
 <br>
